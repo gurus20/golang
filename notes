@@ -1,0 +1,3 @@
+1. Set up golang webserver
+2. To use apache or nginx use proxy in front of go app with mode_proxy(apache)
+3. 
